@@ -31,7 +31,7 @@ num2=temp
 print("Swapped values are:",num1,num2)
 ```
 ## Output:
-![Alt text](<Ex 1 Swapping.png>)
+![OUTPUT](<Ex 1 Swapping.png>)
 
 
 ## RESULT:
